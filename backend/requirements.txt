@@ -1,9 +1,0 @@
-Flask
-Flask-CORS
-python-dotenv
-requests
-python-dotenv
-google-genai
-deepgram-sdk
-python-dateutil
-colorlog
